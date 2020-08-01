@@ -1,0 +1,15 @@
+This is an open ended project to provide DL based solutions. 
+
+Task: Develop a DL based model to solve the BDRW https://www.kaggle.com/debdoot/bdrw
+
+Submit: Notebook with executed solution on Pytorch, clearly indicating through comments and explained text/header in the .ipynb, detailing
+
+1.  how you have split the dataset into train, text, validation?
+2.  have you taken any methods to compensate for class imbalance?
+3.  any conditions of hot restart during training?
+4.  present the training/validation loss curves and indicate how you have chosen the stopping criteria?
+5.  calculate the model space and inference compute complexity and indicate it on your .ipynb
+6.  the .ipynb should be self contained with any custom function defined in-scope, and the training function as well, and should take in a single folder with images at input, without any need to manually segregate them into train, test, validate sets 
+7.  Executed .ipynb should necessarily be submitted for qualifying for evaluation
+
+DO NOT SUBMIT trained model.
