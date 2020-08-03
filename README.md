@@ -8,7 +8,7 @@ DL based solution for the BDRW(Bengali Digit Recognition in the Wild) [dataset](
 ## Relevant files
 1. Head over to the [`ps.txt`](https://github.com/Raghwendra-Dey/bdrw/blob/master/ps.txt) to read the problem statement.<br>
 2. [`with_early_stopping.ipynb`](https://github.com/Raghwendra-Dey/bdrw/blob/master/with_early_stopping.ipynb) is the final file submitted by me.<br>
-3. [`without_early_stopping.ipynb`](https://github.com/Raghwendra-Dey/bdrw/blob/master/without_early_stopping.ipynb) doesn't uses early stopping and trains for a fixed number of epochs.<br>
+3. [`without_early_stopping.ipynb`](https://github.com/Raghwendra-Dey/bdrw/blob/master/without_early_stopping.ipynb) doesn't uses early stopping and trains for a fixed number of epochs.<br><br>
 
 Got a <b>*9/10*</b> score for this project.<br>
 This model with early stopping achieved a <b>*95.71%* test accuracy</b> and <b>*98.58%* train accuracy</b>.<br><br>
